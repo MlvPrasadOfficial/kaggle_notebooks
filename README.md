@@ -1,2 +1,7 @@
-# kaggle_notebooks
-A collection of all my Kaggle Notebook
+# MLV PRASAD KAGGLE NOTEBOOKS
+
+## THIS REPOSITORY IS SET OF COLLECTION OF NOTE BOOKS OF MLV PRASAD  OF KAGGLE WITH GOLD , SILVER AND BRONZE MEDALS
+
+### KAGGLE PROFILE 
+
+[MLV PRASAD - KAGGLE ]{https://www.kaggle.com/mlvprasad}
